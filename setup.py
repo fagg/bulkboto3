@@ -17,7 +17,7 @@ AUTHOR_EMAIL = "amir.masoud.sefidian@gmail.com"
 REQUIRES_PYTHON = ">=3.6.0"
 # What packages are required for this module to be executed?
 REQUIRED = [
-    "boto3==1.21.26",
+    "boto3",
     "tqdm",
 ]
 
